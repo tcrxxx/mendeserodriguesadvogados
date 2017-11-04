@@ -145,7 +145,7 @@ a {
   padding-top: 150px;
   padding-bottom: 150px; }
 
-.download-section {
+.atuactions-section {
   color: white;
   background: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url("../img/atuacao-bg.jpg") no-repeat center center scroll;
   background-color: black;
@@ -242,8 +242,8 @@ body {
 .panel-heading .accordion-toggle.collapsed:after 			{content:"\e080";}
 
 .card-body {
-	background-color: rgba(230, 230, 230, 0.5);
-	opacity:0.5;
+	background-color: rgba(255, 255, 255, 1);
+	
 }
 
 .card-title {
